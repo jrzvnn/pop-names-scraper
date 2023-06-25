@@ -21,7 +21,7 @@ To use the scraper with Conda and Jupyter Notebook, follow these steps:
 2. Create a new Conda environment.
 3. Activate the Conda environment.
 4. Launch Jupyter Notebook.
-5. Open the `scraper.ipynb` notebook in Jupyter Notebook.
+5. Open the `names_scraper.ipynb` notebook in Jupyter Notebook.
 6. Run the cells in the notebook to execute the scraper and generate the CSV file.
 7. Once the scraper completes, the scraped data will be saved as a CSV file.
 
