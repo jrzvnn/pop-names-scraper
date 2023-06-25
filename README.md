@@ -4,12 +4,15 @@ This repository contains a Python web scraper that extracts data from the "https
 
 ## Usage
 
-To use the scraper, follow these steps:
+To use the scraper with Conda and Jupyter Notebook, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Run the scraper script by executing `python scraper.py`.
-4. Once the scraper completes, the scraped data will be saved as a CSV file named `scraped_data.csv` in the same directory.
+2. Create a new Conda environment.
+3. Activate the Conda environment.
+4. Launch Jupyter Notebook.
+5. Open the `scraper.ipynb` notebook in Jupyter Notebook.
+6. Run the cells in the notebook to execute the scraper and generate the CSV file.
+7. Once the scraper completes, the scraped data will be saved as a CSV file.
 
 Feel free to modify the scraper script or customize it according to your specific needs.
 
